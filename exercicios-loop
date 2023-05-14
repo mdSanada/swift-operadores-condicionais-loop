@@ -1,0 +1,20 @@
+## Loops:
+Exercícios de loop
+
+### Loops For:
+
+1. Crie um loop for que imprima os números pares de 0 a 10.
+2. Crie um loop for que calcule a soma dos números ímpares de 1 a 100.
+3. Crie um loop for que imprima a tabuada do número 7 até o valor 10.
+
+### Loops While:
+
+1. Crie um loop while que imprima os números ímpares de 1 a 15.
+2. Crie um loop while que imprima os números pares de 10 a 100.
+3. Crie um loop while que solicite ao usuário que insira um número positivo e imprima a soma de todos os números de 1 até o número inserido.
+
+### Loops Repeat-While:
+
+1. Crie um loop repeat-while que imprima os números pares de 0 a 20.
+2. Crie um loop repeat-while que imprima os números ímpares de 0 a 20.
+3. Utilizando o loop repeat-while dado um número e exiba a tabuada deste número de 1 a 10.
