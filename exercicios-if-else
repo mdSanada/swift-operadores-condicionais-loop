@@ -1,0 +1,10 @@
+## Condicionais
+Exercícios de condicionais (if-else)
+
+### if-else
+
+1. Dado um número inteiro, verifique se ele é positivo. Se for, exiba "O número é positivo", senão exiba "O número é negativo".
+2. Dado o nome de uma cor, verifique se ela é "azul", "verde" ou "vermelho". Se for, exiba "Essa cor é legal", senão exiba "Essa cor não é legal".
+3. Dada uma string contendo uma letra, verifique se essa letra é uma vogal. Se for, exiba "É uma vogal", senão exiba "Não é uma vogal".
+4. Dado um número inteiro, verifique se ele é par. Se for, exiba "O número é par", senão exiba "O número é ímpar".
+5. Dado um número inteiro, verifique se ele é divisível por 3. Se for, exiba "O número é divisível por 3", senão exiba "O número não é divisível por 3".
