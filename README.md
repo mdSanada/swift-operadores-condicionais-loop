@@ -1,4 +1,4 @@
-# Instruções para os Exercícios**
+# Instruções para os Exercícios
 
 Este repositório contém vários arquivos com exercícios para praticar programação em Python.
 
